@@ -1,0 +1,2 @@
+pypiserver/pypi_data/logs/*.log
+nginx/logs/*.log
